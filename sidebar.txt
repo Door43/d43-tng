@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tng:home|Door43 (tng)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tng|d43-tng repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tng/archive/master.zip|d43-tng.zip]]
+
+**Recent Changes**
+{{changes>ns = tng}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tng|Ethnologue data]]
+
